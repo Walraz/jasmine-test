@@ -1,0 +1,24 @@
+{
+  "name": "jasmine-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Walraz/jasmine-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Walraz/jasmine-test/issues"
+  },
+  "homepage": "https://github.com/Walraz/jasmine-test#readme",
+  "devDependencies": {
+    "jasmine-expect": "^2.0.2",
+    "jasmine-node": "^1.14.5"
+  }
+}
